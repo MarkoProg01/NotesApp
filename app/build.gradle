@@ -37,11 +37,11 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    //Room (for database)
+    // Room (for database)
     implementation "androidx.room:room-runtime:2.2.5"
     annotationProcessor "androidx.room:room-compiler:2.2.5"
 
-    //RecyclerView
+    // RecyclerView
     implementation "androidx.recyclerview:recyclerview:1.1.0"
 
     // Scalable Size Unit (support for different screen sizes)
